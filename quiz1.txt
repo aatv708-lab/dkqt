@@ -3,7 +3,7 @@ Q. राजस्थान की राजधानी क्या है?
 (B) Jaipur
 (C) Kota
 (D) Udaipur
-सही उत्तर : (B)
+Ans: (B)
 व्याख्या: Jaipur ko pink city bhi kaha jata hai.
 
 Q. राजस्थान की राजधानी क्या है?
@@ -11,7 +11,7 @@ Q. राजस्थान की राजधानी क्या है?
 (B) Jaipur
 (C) Kota
 (D) Udaipur
-सही उत्तर : (B)
+Ans: (B)
 व्याख्या: Jaipur ko pink city bhi kaha jata hai.
 
 
@@ -20,5 +20,6 @@ Q. राजस्थान की राजधानी क्या है?
 (B) Jaipur
 (C) Kota
 (D) Udaipur
-सही उत्तर : (B)
+Ans: (D)
 व्याख्या: Jaipur ko pink city bhi kaha jata hai.
+
